@@ -3,8 +3,14 @@ package main
 import "fmt"
 
 func main() {
+	// This is a simple comment in Go
 
-	fmt.Printf("Hello World")
-	fmt.Println(true)
-	fmt.Println(true && false)
+	/*
+		This is a
+		multi-line comment
+		in Go
+	*/
+
+	fmt.Println("Hello World")
+
 }
